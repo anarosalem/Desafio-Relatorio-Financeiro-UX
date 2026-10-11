@@ -4,7 +4,6 @@
 
 Este repositório contém a solução para o "Desafio de Projeto - Atualizando Relatório Financeiro com Foco na Experiência do Usuário". O objetivo principal foi refatorar o primeiro relatório criativo desenvolvido, aplicando conceitos de design visual e usabilidade para melhorar a forma como os usuários interagem e interpretam os dados financeiros.
 
-Os dados e escopo originais baseiam-se nas orientações do arquivo de referência 8c8b9d8e-2d05-4d68-ad5b-631bed568839.docx.
 
 🎯 Objetivo
 
